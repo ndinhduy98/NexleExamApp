@@ -12,3 +12,6 @@
 
 ## Unit tests
 Unit tests  are placed in `app/src/test/java/com/freezer/nexle_examapp/`
+
+## Release
+You can find a installable apk file in Releases
