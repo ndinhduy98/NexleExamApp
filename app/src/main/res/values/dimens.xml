@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_fragment">16dp</dimen>
+    <dimen name="margin_top_button">32dp</dimen>
+    <dimen name="margin_bottom_text_get_started">300dp</dimen>
+</resources>

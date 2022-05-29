@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contrainst_bias" type="dimen" format="float">0.15</item>
+</resources>
